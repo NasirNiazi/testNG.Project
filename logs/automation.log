@@ -1,0 +1,175 @@
+14:03:17.088 [TestNG-tests-1] INFO  TestCases.TC_001AccountRegistrationTest - ***Striting test TC_001AccountRegistrationTest****
+14:03:17.235 [TestNG-tests-1] INFO  TestCases.TC_001AccountRegistrationTest - Click to my Account 
+14:03:19.241 [TestNG-tests-3] INFO  TestCases.TC_001AccountRegistrationTest - ***Striting test TC_001AccountRegistrationTest****
+14:03:19.272 [TestNG-tests-1] INFO  TestCases.TC_001AccountRegistrationTest - Click to register 
+14:03:19.277 [TestNG-tests-1] INFO  TestCases.TC_001AccountRegistrationTest - Get the all Informatin off Customer 
+14:03:19.492 [TestNG-tests-3] INFO  TestCases.TC_001AccountRegistrationTest - Click to my Account 
+14:03:20.401 [TestNG-tests-1] INFO  TestCases.TC_001AccountRegistrationTest - Click on Continue 
+14:03:20.416 [TestNG-tests-2] INFO  TestCases.TC_001AccountRegistrationTest - ***Striting test TC_001AccountRegistrationTest****
+14:03:20.440 [TestNG-tests-1] INFO  TestCases.TC_001AccountRegistrationTest - Get the Actual MASSEGE 
+14:03:20.443 [TestNG-tests-1] INFO  TestCases.TC_001AccountRegistrationTest - The test is done ???????????????????????????????????????????
+14:03:20.550 [TestNG-tests-2] INFO  TestCases.TC_001AccountRegistrationTest - Click to my Account 
+14:03:20.656 [TestNG-tests-3] INFO  TestCases.TC_001AccountRegistrationTest - Click to register 
+14:03:20.656 [TestNG-tests-3] INFO  TestCases.TC_001AccountRegistrationTest - Get the all Informatin off Customer 
+14:03:21.355 [TestNG-tests-2] INFO  TestCases.TC_001AccountRegistrationTest - Click to register 
+14:03:21.357 [TestNG-tests-2] INFO  TestCases.TC_001AccountRegistrationTest - Get the all Informatin off Customer 
+14:03:21.814 [TestNG-tests-3] INFO  TestCases.TC_001AccountRegistrationTest - Click on Continue 
+14:03:21.841 [TestNG-tests-3] INFO  TestCases.TC_001AccountRegistrationTest - Get the Actual MASSEGE 
+14:03:21.842 [TestNG-tests-3] INFO  TestCases.TC_001AccountRegistrationTest - The test is done ???????????????????????????????????????????
+14:03:22.418 [TestNG-tests-2] INFO  TestCases.TC_001AccountRegistrationTest - Click on Continue 
+14:03:22.446 [TestNG-tests-2] INFO  TestCases.TC_001AccountRegistrationTest - Get the Actual MASSEGE 
+14:03:22.446 [TestNG-tests-2] INFO  TestCases.TC_001AccountRegistrationTest - The test is done ???????????????????????????????????????????
+14:19:02.881 [TestNG-tests-1] INFO  TestCases.TC_001AccountRegistrationTest - ***Striting test TC_001AccountRegistrationTest****
+14:19:03.046 [TestNG-tests-1] INFO  TestCases.TC_001AccountRegistrationTest - Click to my Account 
+14:19:05.892 [TestNG-tests-1] INFO  TestCases.TC_001AccountRegistrationTest - Click to register 
+14:19:05.895 [TestNG-tests-1] INFO  TestCases.TC_001AccountRegistrationTest - Get the all Informatin off Customer 
+14:19:06.990 [TestNG-tests-2] INFO  TestCases.TC_001AccountRegistrationTest - ***Striting test TC_001AccountRegistrationTest****
+14:19:07.024 [TestNG-tests-1] INFO  TestCases.TC_001AccountRegistrationTest - Click on Continue 
+14:19:07.068 [TestNG-tests-1] INFO  TestCases.TC_001AccountRegistrationTest - Get the Actual MASSEGE 
+14:19:07.071 [TestNG-tests-1] INFO  TestCases.TC_001AccountRegistrationTest - The test is done ???????????????????????????????????????????
+14:19:07.128 [TestNG-tests-2] INFO  TestCases.TC_001AccountRegistrationTest - Click to my Account 
+14:19:07.671 [TestNG-tests-3] INFO  TestCases.TC_001AccountRegistrationTest - ***Striting test TC_001AccountRegistrationTest****
+14:19:07.942 [TestNG-tests-3] INFO  TestCases.TC_001AccountRegistrationTest - Click to my Account 
+14:19:08.436 [TestNG-tests-2] INFO  TestCases.TC_001AccountRegistrationTest - Click to register 
+14:19:08.437 [TestNG-tests-2] INFO  TestCases.TC_001AccountRegistrationTest - Get the all Informatin off Customer 
+14:19:09.457 [TestNG-tests-2] INFO  TestCases.TC_001AccountRegistrationTest - Click on Continue 
+14:19:09.486 [TestNG-tests-2] INFO  TestCases.TC_001AccountRegistrationTest - Get the Actual MASSEGE 
+14:19:09.486 [TestNG-tests-2] INFO  TestCases.TC_001AccountRegistrationTest - The test is done ???????????????????????????????????????????
+14:19:09.614 [TestNG-tests-3] INFO  TestCases.TC_001AccountRegistrationTest - Click to register 
+14:19:09.615 [TestNG-tests-3] INFO  TestCases.TC_001AccountRegistrationTest - Get the all Informatin off Customer 
+14:19:10.733 [TestNG-tests-3] INFO  TestCases.TC_001AccountRegistrationTest - Click on Continue 
+14:19:10.760 [TestNG-tests-3] INFO  TestCases.TC_001AccountRegistrationTest - Get the Actual MASSEGE 
+14:19:10.760 [TestNG-tests-3] INFO  TestCases.TC_001AccountRegistrationTest - The test is done ???????????????????????????????????????????
+14:19:25.554 [main] INFO  TestCases.TC_001AccountRegistrationTest - ***Striting test TC_001AccountRegistrationTest****
+14:19:25.618 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click to my Account 
+14:19:26.349 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click to register 
+14:19:26.352 [main] INFO  TestCases.TC_001AccountRegistrationTest - Get the all Informatin off Customer 
+14:19:27.351 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click on Continue 
+14:19:27.381 [main] INFO  TestCases.TC_001AccountRegistrationTest - Get the Actual MASSEGE 
+14:19:27.383 [main] INFO  TestCases.TC_001AccountRegistrationTest - The test is done ???????????????????????????????????????????
+14:19:59.505 [main] INFO  TestCases.TC_001AccountRegistrationTest - ***Striting test TC_001AccountRegistrationTest****
+14:19:59.573 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click to my Account 
+14:20:00.401 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click to register 
+14:20:00.404 [main] INFO  TestCases.TC_001AccountRegistrationTest - Get the all Informatin off Customer 
+14:20:01.416 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click on Continue 
+14:20:01.451 [main] INFO  TestCases.TC_001AccountRegistrationTest - Get the Actual MASSEGE 
+14:20:01.453 [main] INFO  TestCases.TC_001AccountRegistrationTest - The test is done ???????????????????????????????????????????
+14:31:36.301 [main] INFO  TestCases.TC_001AccountRegistrationTest - ***Striting test TC_001AccountRegistrationTest****
+14:31:36.380 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click to my Account 
+14:31:37.058 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click to register 
+14:31:37.061 [main] INFO  TestCases.TC_001AccountRegistrationTest - Get the all Informatin off Customer 
+14:31:43.216 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click on Continue 
+14:31:43.246 [main] INFO  TestCases.TC_001AccountRegistrationTest - Get the Actual MASSEGE 
+14:31:43.249 [main] INFO  TestCases.TC_001AccountRegistrationTest - The test is done ???????????????????????????????????????????
+22:37:54.147 [TestNG-tests-1] INFO  TestCases.TC_001AccountRegistrationTest - ***Striting test TC_001AccountRegistrationTest****
+22:37:54.269 [TestNG-tests-1] INFO  TestCases.TC_001AccountRegistrationTest - Click to my Account 
+22:37:55.725 [TestNG-tests-1] INFO  TestCases.TC_001AccountRegistrationTest - Click to register 
+22:37:55.745 [TestNG-tests-1] INFO  TestCases.TC_001AccountRegistrationTest - Get the all Informatin off Customer 
+22:37:56.430 [TestNG-tests-2] INFO  TestCases.TC_001AccountRegistrationTest - ***Striting test TC_001AccountRegistrationTest****
+22:37:56.559 [TestNG-tests-2] INFO  TestCases.TC_001AccountRegistrationTest - Click to my Account 
+22:37:57.580 [TestNG-tests-2] INFO  TestCases.TC_001AccountRegistrationTest - Click to register 
+22:37:57.582 [TestNG-tests-2] INFO  TestCases.TC_001AccountRegistrationTest - Get the all Informatin off Customer 
+22:38:00.314 [TestNG-tests-3] INFO  TestCases.TC_001AccountRegistrationTest - ***Striting test TC_001AccountRegistrationTest****
+22:38:00.974 [TestNG-tests-3] INFO  TestCases.TC_001AccountRegistrationTest - Click to my Account 
+22:38:02.981 [TestNG-tests-1] INFO  TestCases.TC_001AccountRegistrationTest - Click on Continue 
+22:38:03.016 [TestNG-tests-1] INFO  TestCases.TC_001AccountRegistrationTest - Get the Actual MASSEGE 
+22:38:03.018 [TestNG-tests-1] INFO  TestCases.TC_001AccountRegistrationTest - The test is done ???????????????????????????????????????????
+22:38:03.899 [TestNG-tests-2] INFO  TestCases.TC_001AccountRegistrationTest - Click on Continue 
+22:38:03.931 [TestNG-tests-2] INFO  TestCases.TC_001AccountRegistrationTest - Get the Actual MASSEGE 
+22:38:03.931 [TestNG-tests-2] INFO  TestCases.TC_001AccountRegistrationTest - The test is done ???????????????????????????????????????????
+22:38:04.199 [TestNG-tests-3] INFO  TestCases.TC_001AccountRegistrationTest - Click to register 
+22:38:04.200 [TestNG-tests-3] INFO  TestCases.TC_001AccountRegistrationTest - Get the all Informatin off Customer 
+22:38:10.496 [TestNG-tests-3] INFO  TestCases.TC_001AccountRegistrationTest - Click on Continue 
+22:38:10.531 [TestNG-tests-3] INFO  TestCases.TC_001AccountRegistrationTest - Get the Actual MASSEGE 
+22:38:10.531 [TestNG-tests-3] INFO  TestCases.TC_001AccountRegistrationTest - The test is done ???????????????????????????????????????????
+00:06:13.652 [main] INFO  TestCases.TC_001AccountRegistrationTest - ***Striting test TC_001AccountRegistrationTest****
+00:06:13.777 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click to my Account 
+00:06:14.689 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click to register 
+00:06:14.690 [main] INFO  TestCases.TC_001AccountRegistrationTest - Get the all Informatin off Customer 
+00:06:20.767 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click on Continue 
+00:06:20.798 [main] INFO  TestCases.TC_001AccountRegistrationTest - Get the Actual MASSEGE 
+00:06:20.800 [main] INFO  TestCases.TC_001AccountRegistrationTest - The test is done ???????????????????????????????????????????
+00:08:26.315 [main] INFO  TestCases.TC_001AccountRegistrationTest - ***Striting test TC_001AccountRegistrationTest****
+00:08:26.389 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click to my Account 
+00:08:27.037 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click to register 
+00:08:27.039 [main] INFO  TestCases.TC_001AccountRegistrationTest - Get the all Informatin off Customer 
+00:08:33.017 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click on Continue 
+00:08:33.046 [main] INFO  TestCases.TC_001AccountRegistrationTest - Get the Actual MASSEGE 
+00:08:33.048 [main] INFO  TestCases.TC_001AccountRegistrationTest - The test is done ???????????????????????????????????????????
+00:10:50.411 [main] INFO  TestCases.TC_001AccountRegistrationTest - ***Striting test TC_001AccountRegistrationTest****
+00:10:50.483 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click to my Account 
+00:10:51.143 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click to register 
+00:10:51.145 [main] INFO  TestCases.TC_001AccountRegistrationTest - Get the all Informatin off Customer 
+00:10:57.194 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click on Continue 
+00:10:57.226 [main] INFO  TestCases.TC_001AccountRegistrationTest - Get the Actual MASSEGE 
+00:10:57.227 [main] INFO  TestCases.TC_001AccountRegistrationTest - The test is done ???????????????????????????????????????????
+00:13:03.595 [main] INFO  TestCases.TC_001AccountRegistrationTest - ***Striting test TC_001AccountRegistrationTest****
+00:13:03.663 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click to my Account 
+00:13:04.322 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click to register 
+00:13:04.325 [main] INFO  TestCases.TC_001AccountRegistrationTest - Get the all Informatin off Customer 
+00:13:10.337 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click on Continue 
+00:13:10.366 [main] INFO  TestCases.TC_001AccountRegistrationTest - Get the Actual MASSEGE 
+00:13:10.368 [main] INFO  TestCases.TC_001AccountRegistrationTest - The test is done ???????????????????????????????????????????
+00:15:17.107 [main] INFO  TestCases.TC_001AccountRegistrationTest - ***Striting test TC_001AccountRegistrationTest****
+00:15:17.181 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click to my Account 
+00:15:17.896 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click to register 
+00:15:17.898 [main] INFO  TestCases.TC_001AccountRegistrationTest - Get the all Informatin off Customer 
+00:15:23.889 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click on Continue 
+00:15:23.918 [main] INFO  TestCases.TC_001AccountRegistrationTest - Get the Actual MASSEGE 
+00:15:23.920 [main] INFO  TestCases.TC_001AccountRegistrationTest - The test is done ???????????????????????????????????????????
+00:16:36.780 [main] INFO  TestCases.TC_001AccountRegistrationTest - ***Striting test TC_001AccountRegistrationTest****
+00:16:36.848 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click to my Account 
+00:16:37.497 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click to register 
+00:16:37.500 [main] INFO  TestCases.TC_001AccountRegistrationTest - Get the all Informatin off Customer 
+00:16:43.365 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click on Continue 
+00:16:53.389 [main] INFO  TestCases.TC_001AccountRegistrationTest - Get the Actual MASSEGE 
+00:19:18.759 [main] INFO  TestCases.TC_001AccountRegistrationTest - ***Striting test TC_001AccountRegistrationTest****
+00:19:18.832 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click to my Account 
+00:19:19.488 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click to register 
+00:19:19.490 [main] INFO  TestCases.TC_001AccountRegistrationTest - Get the all Informatin off Customer 
+00:19:25.236 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click on Continue 
+00:19:35.250 [main] INFO  TestCases.TC_001AccountRegistrationTest - Get the Actual MASSEGE 
+00:19:43.306 [main] INFO  TestCases.TC_001AccountRegistrationTest - ***Striting test TC_001AccountRegistrationTest****
+00:19:43.375 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click to my Account 
+00:19:44.041 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click to register 
+00:19:44.043 [main] INFO  TestCases.TC_001AccountRegistrationTest - Get the all Informatin off Customer 
+00:19:50.059 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click on Continue 
+00:19:50.090 [main] INFO  TestCases.TC_001AccountRegistrationTest - Get the Actual MASSEGE 
+00:19:50.091 [main] INFO  TestCases.TC_001AccountRegistrationTest - The test is done ???????????????????????????????????????????
+00:55:14.494 [main] INFO  TestCases.TC_001AccountRegistrationTest - ***Striting test TC_001AccountRegistrationTest****
+00:55:14.570 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click to my Account 
+00:55:15.261 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click to register 
+00:55:15.263 [main] INFO  TestCases.TC_001AccountRegistrationTest - Get the all Informatin off Customer 
+00:55:21.450 [main] INFO  TestCases.TC_001AccountRegistrationTest - Click on Continue 
+00:55:21.480 [main] INFO  TestCases.TC_001AccountRegistrationTest - Get the Actual MASSEGE 
+00:55:21.482 [main] INFO  TestCases.TC_001AccountRegistrationTest - The test is done ???????????????????????????????????????????
+23:38:03.693 [main] INFO  TestCases.TC_003_MyAccount - *************the test is start***************** TC_003_MyAccount
+23:39:33.601 [main] INFO  TestCases.TC_003_MyAccount - *************the test is start***************** TC_003_MyAccount
+23:42:32.966 [main] INFO  TestCases.TC_003_MyAccount - *************the test is start***************** TC_003_MyAccount
+23:42:34.046 [main] INFO  TestCases.TC_003_MyAccount - the test is fanished TC_003_MyAccount
+23:54:56.769 [main] INFO  TestCases.TC_003_MyAccount - *************the test is start***************** TC_003_MyAccount
+23:54:57.765 [main] INFO  TestCases.TC_003_MyAccount - the test is fanished TC_003_MyAccount
+23:59:15.243 [main] INFO  TestCases.TC_003_MyAccount - *************the test is start***************** TC_003_MyAccount
+23:59:16.239 [main] INFO  TestCases.TC_003_MyAccount - the test is fanished TC_003_MyAccount
+00:01:24.593 [main] INFO  TestCases.TC_003_MyAccount - *************the test is start***************** TC_003_MyAccount
+00:01:25.699 [main] INFO  TestCases.TC_003_MyAccount - the test is fanished TC_003_MyAccount
+00:03:40.170 [main] INFO  TestCases.TC_003_MyAccount - *************the test is start***************** TC_003_MyAccount
+00:03:41.378 [main] INFO  TestCases.TC_003_MyAccount - the test is fanished TC_003_MyAccount
+00:09:13.798 [main] INFO  TestCases.TC_003_MyAccount - *************the test is start***************** TC_003_MyAccount
+00:09:14.731 [main] INFO  TestCases.TC_003_MyAccount - the test is fanished TC_003_MyAccount
+00:19:15.957 [TestNG-tests-2] INFO  TestCases.TC_001AccountRegistrationTest - ***Striting test TC_001AccountRegistrationTest****
+00:19:15.957 [TestNG-tests-3] INFO  TestCases.TC_001AccountRegistrationTest - ***Striting test TC_001AccountRegistrationTest****
+00:19:16.239 [TestNG-tests-3] INFO  TestCases.TC_001AccountRegistrationTest - Click to my Account 
+00:19:16.447 [TestNG-tests-2] INFO  TestCases.TC_001AccountRegistrationTest - Click to my Account 
+00:21:01.751 [TestNG-tests-3] INFO  TestCases.TC_001AccountRegistrationTest - ***Striting test TC_001AccountRegistrationTest****
+00:21:01.751 [TestNG-tests-2] INFO  TestCases.TC_001AccountRegistrationTest - ***Striting test TC_001AccountRegistrationTest****
+00:21:02.033 [TestNG-tests-3] INFO  TestCases.TC_001AccountRegistrationTest - Click to my Account 
+00:21:02.243 [TestNG-tests-2] INFO  TestCases.TC_001AccountRegistrationTest - Click to my Account 
+00:21:18.915 [TestNG-tests-3] INFO  TestCases.TC_003_MyAccount - *************the test is start***************** TC_003_MyAccount
+00:21:20.277 [TestNG-tests-3] INFO  TestCases.TC_003_MyAccount - the test is fanished TC_003_MyAccount
+00:22:24.442 [TestNG-tests-2] INFO  TestCases.TC_003_MyAccount - *************the test is start***************** TC_003_MyAccount
+00:22:24.442 [TestNG-tests-3] INFO  TestCases.TC_003_MyAccount - *************the test is start***************** TC_003_MyAccount
+00:24:02.074 [main] INFO  TestCases.TC_003_MyAccount - *************the test is start***************** TC_003_MyAccount
+00:24:03.106 [main] INFO  TestCases.TC_003_MyAccount - the test is fanished TC_003_MyAccount
+16:00:14.372 [main] INFO  TestCases.TC_003_MyAccount - *************the test is start***************** TC_003_MyAccount
+16:00:15.294 [main] INFO  TestCases.TC_003_MyAccount - the test is fanished TC_003_MyAccount
